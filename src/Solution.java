@@ -17,6 +17,10 @@ class Solution {
     {
         int diskNumber = 4; // Number of disks
         towerOfHanoi(diskNumber, 'A', 'C', 'B');
+<<<<<<< HEAD
         // A, B and C are names of rods
+=======
+    // A, B and C are names of rods
+>>>>>>> test2Branch
     }
 }
